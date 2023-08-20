@@ -1,2 +1,4 @@
 # Facebook
-Tanha akter
+Namber or Gmail
+password
+login
